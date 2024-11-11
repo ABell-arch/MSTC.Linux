@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Created by Ansen Bell <ABell-arch>
 groups=('Sales' 'HumanResources' 'TechnicalOperations' 'Helpdesk' 'Research')
 
 #echo "\$0=$0"
