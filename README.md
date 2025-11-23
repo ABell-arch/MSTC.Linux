@@ -1,0 +1,2 @@
+My name is Ansen Bell and I am currently studying cybersecurity. In my free time I like to read books and play video games with friends.
+One of my future career goals is to learn as much as possible about cybersecurity so I can perform as best I can in my job. Some of my current skills include a basic understanding of coding languages, as well as networking and some general skills I pick up from my cashier job. My biggest goal is to be able to live a comfortable life regardless of how many luxuries I own.
